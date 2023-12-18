@@ -1,6 +1,6 @@
 # LightOn
 
-Since 2020, LightOn is focused on building state-of-the-art Large Language Models for customers as well as for internal use. Recently LightOn released Alfred-40B-0723 and Alfred-40b-1123, model finetuned with RLHF and with longer context length, based on Falcon-40B. LightOn offers a platform called [Paradigm](https://www.lighton.ai/), designed to help large companies navigate the complexities of Generative AI.
+Since 2020, LightOn is focused on building state-of-the-art Large Language Models for customers as well as for internal use. Recently LightOn released Alfred-40B-0723 and Alfred-40b-1023, model finetuned with RLHF and with longer context length, based on Falcon-40B. LightOn offers a platform called [Paradigm](https://www.lighton.ai/), designed to help large companies navigate the complexities of Generative AI.
 
 ![a witty and elegant butler with a falcon on his shoulder, smile, flat illustration, simple shapes, colorful, lo-fi aesthetics](https://i.ibb.co/28dVbkB/alfred-mini-1.png)
 
