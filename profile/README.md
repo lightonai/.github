@@ -11,7 +11,7 @@ Since 2020, LightOn is focused on building state-of-the-art Large Language Model
 * Training: Finetuned with Reinforcement Learning from Human Feedback.
 * Availability: Accessible on HuggingFace.
 
-Technical details and model weights are available at our HuggingFace model cards: [alfred-40b-0723](https://huggingface.co/lightonai/alfred-40b-0723) and [alfred-40b-1123](https://huggingface.co/lightonai/alfred-40b-1023).
+Technical details and model weights are available at our HuggingFace model cards: [alfred-40b-0723](https://huggingface.co/lightonai/alfred-40b-0723) and [alfred-40b-1023](https://huggingface.co/lightonai/alfred-40b-1023).
 
 ## Join us
 
