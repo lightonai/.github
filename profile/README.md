@@ -1,5 +1,7 @@
 # LightOn
 
+We are determined to help businesses seize the opportunities of Gen AI, by putting confidentiality and value creation at the heart of our solutions.
+
 ## Open source work
 
 We release models and datasets at [https://huggingface.co/lightonai](https://huggingface.co/lightonai).
